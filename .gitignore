@@ -5,3 +5,4 @@ __pycache__
 .gitattributes
 !*.zip
 data/source_data/
+images/
